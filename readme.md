@@ -5,4 +5,14 @@ Se tiene que realizar un registro de personas con capacidades diferente, para lo
 
 Para esto tienes que genera una lista de tres coordenadas.   La carpeta de datos podrás encontrar un archivo con las coordenadas de cada una de las colonias.  El archivo *“Notebook guía reto1“* es notebook de Jupyter que ayudará a iniciar el reto.
 
+La respuesta del reto debe ser entregada subiendo el archivo .csv en el siguente link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSdnEfhqSIMdSfrBUzedM35818BVf11_gr-_tGdX2BXeBz_HwQ/viewform?usp=sf_link
+
+
 ## ¡Suerte!
+
+
+Liks de ayuda.
+http://www.cs.us.es/~fsancho/?e=230
+https://www.aprendemachinelearning.com/k-means-en-python-paso-a-paso/
